@@ -1,4 +1,9 @@
 # lab04-color
+Name: Xiaoxiao (Crystal) Zou & Ruijun(Daniel) Zhong  
+[Color stripe](https://www.shadertoy.com/view/cd3BD2#)  
+[Chromatic aberration](https://www.shadertoy.com/view/ms3fDj)  
+
+
 Let's play with color!
 
 ## 1. Stripes
