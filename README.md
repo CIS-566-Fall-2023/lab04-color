@@ -1,5 +1,8 @@
-# lab04-color
-Let's play with color!
+
+
+# Lab 4 Colors - Saksham Nagpal
+* [Stripes Shadertoy](https://www.shadertoy.com/view/dd3BWj)
+* [Chromatic Aberration Shadertoy](https://www.shadertoy.com/view/mscBWj)
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
