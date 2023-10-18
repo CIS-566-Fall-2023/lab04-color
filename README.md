@@ -7,7 +7,7 @@ Shadertoy Link: [Stripes](https://www.shadertoy.com/view/ddtBW2)
 ![Part1](https://github.com/uluyek/lab04-color/blob/main/Lab4%20Part1.png)
 ### Part 2
 Shadertoy Link: [Damaged VCR](https://www.shadertoy.com/view/msdfDj)
-![Part2](https://user-images.githubusercontent.com/1758825/192643224-503d1e99-dd27-40fd-9f6c-cd0bc4355703.gif)
+![Part2](https://github.com/uluyek/lab04-color/blob/main/Screenshot%202023-10-18%20at%206.18.59%20PM.png)
 ### Extra Credit
 Shadertoy Link: [nyan cat](https://www.shadertoy.com/view/mdtBW2)
 ![Extra Credit](https://user-images.githubusercontent.com/1758825/192643224-503d1e99-dd27-40fd-9f6c-cd0bc4355703.gif)
