@@ -1,6 +1,8 @@
 # lab04-color
 Let's play with color!
+
 [Stripes](https://www.shadertoy.com/view/mdcBD2)
+
 [Damaged VCR](https://www.shadertoy.com/view/mscBD2#)
 
 ## 1. Stripes
