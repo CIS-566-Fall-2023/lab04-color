@@ -19,4 +19,4 @@ https://www.shadertoy.com/view/ms3BDj
 ### Link:
 https://www.shadertoy.com/view/cstBWj
 
-![](rainbow.gif)
+![](Rainbow.gif)
