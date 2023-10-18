@@ -1,9 +1,11 @@
+Sherry Li
+
+Stripes solution: https://www.shadertoy.com/view/cstfW2
+
+Damaged VCR solution: https://www.shadertoy.com/view/mdtBDj
+
 # lab04-color
 Let's play with color!
-
-Sherry Li
-Stripes solution: https://www.shadertoy.com/view/cstfW2
-Damaged VCR solution: https://www.shadertoy.com/view/mdtBDj
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
