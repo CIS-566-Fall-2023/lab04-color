@@ -1,4 +1,8 @@
-# lab04-color
+# Claire Lu & Dineth Meegoda lab04-color
+
+Color: https://www.shadertoy.com/view/md3BW2
+Damaged VC: https://www.shadertoy.com/view/ds3BW2
+
 Let's play with color!
 
 ## 1. Stripes
