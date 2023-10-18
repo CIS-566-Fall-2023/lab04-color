@@ -1,3 +1,9 @@
+Sherry Li
+
+Stripes solution: https://www.shadertoy.com/view/cstfW2
+
+Damaged VCR solution: https://www.shadertoy.com/view/mdtBDj
+
 # lab04-color
 Let's play with color!
 
