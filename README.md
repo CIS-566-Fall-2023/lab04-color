@@ -4,6 +4,7 @@ Tianyi Xiao
 # Result
 1. Stripes: https://www.shadertoy.com/view/cdcfW2
 2. Damaged VCR: https://www.shadertoy.com/view/mdcBWj
+3. nyan rainbow cat: https://www.shadertoy.com/view/md3fD2
 
 # lab04-color
 Let's play with color!
