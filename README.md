@@ -1,3 +1,13 @@
+# Team Members
+Yue Zhang
+
+# Shadertoy Links
+[Stripe](https://www.shadertoy.com/view/ddcfW2)
+
+[Damaged VCR](https://www.shadertoy.com/view/ms3fW2)
+
+[Extra nyan](https://www.shadertoy.com/view/ds3BD2)
+
 # lab04-color
 Let's play with color!
 
