@@ -1,9 +1,9 @@
 # lab04-color
 Let's play with color!
 
-# Team: Jiefu Ling'
-Stripes: https://www.shadertoy.com/view/mscfWj
-Damaged VCR: 
+# Team: Jiefu Ling
+Stripes: https://www.shadertoy.com/view/mscfWj  
+Damaged VCR: https://www.shadertoy.com/view/mdcBW2
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
