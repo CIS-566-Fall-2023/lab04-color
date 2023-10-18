@@ -1,5 +1,6 @@
 # lab04-color
-Let's play with color!
+
+Team: Alex Fu and Jiefu Ling
 
 ## 1. Stripes
 
