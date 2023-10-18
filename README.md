@@ -14,3 +14,9 @@ https://www.shadertoy.com/view/ddcBDj
 https://www.shadertoy.com/view/ms3BDj
 
 ![](vcr.gif)
+
+## 3. Rainbow Cat
+### Link:
+https://www.shadertoy.com/view/cstBWj
+
+![](rainbow.gif)
