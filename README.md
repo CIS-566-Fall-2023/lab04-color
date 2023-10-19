@@ -2,6 +2,7 @@
 Solo endeavor this time by me!
 
 Stripes: [https://www.shadertoy.com/view/dscfDj ](https://www.shadertoy.com/view/dscfDj)
+
 Damaged VCR: [https://www.shadertoy.com/view/mdcBDj](https://www.shadertoy.com/view/mdcBDj)
 
 ## 1. Stripes
