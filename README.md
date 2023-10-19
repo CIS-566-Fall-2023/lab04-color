@@ -1,7 +1,7 @@
 # lab04-color
 Let's play with color!
 
-## Submissions Keyu Lu & Hanke Wang
+## Submissions Keyu Lu & Kehan Wang
 ### Part 1
 Shadertoy Link: [Stripes](https://www.shadertoy.com/view/ddtBW2)
 ![Part1](https://github.com/uluyek/lab04-color/blob/main/Lab4%20Part1.png)
