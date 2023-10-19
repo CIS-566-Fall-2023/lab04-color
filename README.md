@@ -1,6 +1,17 @@
 # lab04-color
 Let's play with color!
 
+## Submissions Keyu Lu & Kehan Wang
+### Part 1
+Shadertoy Link: [Stripes](https://www.shadertoy.com/view/ddtBW2)
+![Part1](https://github.com/uluyek/lab04-color/blob/main/Lab4%20Part1.png)
+### Part 2
+Shadertoy Link: [Damaged VCR](https://www.shadertoy.com/view/msdfDj)
+![Part2](https://github.com/uluyek/lab04-color/blob/main/Screenshot%202023-10-18%20at%206.18.59%20PM.png)
+### Extra Credit
+Shadertoy Link: [nyan cat](https://www.shadertoy.com/view/mdtBW2)
+![Extra Credit](https://github.com/uluyek/lab04-color/blob/main/Lab4%20Extra%20Credit.png)
+
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
 ![f813a51b776ad07701ad925c57ac0c4f](https://user-images.githubusercontent.com/1758825/192643224-503d1e99-dd27-40fd-9f6c-cd0bc4355703.gif)
