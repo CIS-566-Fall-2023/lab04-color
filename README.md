@@ -2,7 +2,7 @@
 Let's play with color!
 
 ### [Stripes Final](https://www.shadertoy.com/view/clKBWw)
-
+### [Damaged VCR](https://www.shadertoy.com/view/mlyfDm)
 
 ## 1. Stripes
 Fork [this base code](https://www.shadertoy.com/view/flyfWR) and replicate (to the best of your ability) this animation. And imagine I made the gif loop perfectly
